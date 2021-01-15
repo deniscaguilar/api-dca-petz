@@ -1,0 +1,7 @@
+server:
+  shutdown: graceful
+
+spring:
+  h2:
+    console:
+      enabled: true
